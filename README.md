@@ -1,5 +1,6 @@
 # Lefigacy-RV411-HackintoshOC: An Legacy only OpenCore EFI for the Samsung RV411,as nobody has ever done it before
 
+# "Lefigacy" being a PLAy on the word Legacy + EFI.
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/dd8a4b9a-f5f6-45ff-814d-e7f25aaa9971" />
 
