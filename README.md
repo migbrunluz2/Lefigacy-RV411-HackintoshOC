@@ -15,20 +15,21 @@ Trackpad model and type: ELAN PS/2
 # YOU **MUST** BOOT THIS EFI VIA LEGACY MODE AS ITS BIOS THROWS "Unregistered Exception Handler" DURING UEFI BOOT
 
 # What works
-√ Audio (alcid=3)
-√ QE/CI (Little bit of graphical wear/tear when minimizing window)
-√ Wi-Fi (Spoofed? to AR9280)
-√ Webcam (wow!)
-√ In-built keyboard (Very wonky and unresponsive sometimes)
-√ In-built Microphone
-√ Battery (Is a bit inaccurate)
-√ Headphone/Microphone jack
+* √ Audio (alcid=3)
+* √ QE/CI (Little bit of graphical wear/tear when minimizing window)
+* √ Wi-Fi (Spoofed? to AR9280)
+* √ Webcam (wow!)
+*√ In-built keyboard (Very wonky and unresponsive sometimes)
+* √ In-built Microphone
+* √ Pre-mapped USB ports (20 second delay when plugged in for the first time,albeit working after that!)
+* √ Battery (Is a bit inaccurate)
+* √ Headphone/Microphone jack
 # What does NOT work at the moment..
-Trackpad (uses an ELAN PS/2 trackpad model,however ApplePS2SmartTouchpad ignores it and so is VoodooPS2Controller,possibly I2C?)
-Sleep (Blank screen during wake-up,however responsive??)
-Backlight keys and Backlight,screen dims itself when unplugged
+* Trackpad (uses an ELAN PS/2 trackpad model,however ApplePS2SmartTouchpad ignores it and so is VoodooPS2Controller,possibly I2C?)
+* Sleep (Blank screen during wake-up,however responsive??)
+* Backlight keys and Backlight,screen dims itself when unplugged
 # Unconfirmed?
-? HDMI/VGA ports
-? SD Cards
-? Bluetooth
+* ? HDMI/VGA ports
+* ? SD Cards
+* ? Bluetooth
 EFI will be released until i have fixed almost all bugs.
