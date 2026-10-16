@@ -1,4 +1,4 @@
-# Lefigacy-RV411-HackintoshOC: An Legacy only OpenCore EFI for the Samsung RV411,as nobody has ever done it before
+# Lefigacy-RV411-HackintoshOC: An Legacy only OpenCore EFI for the Samsung RV411,as nobody has ever done it before,EFI WILL BE ONLY RELEASED WHEN EVERYTHING IS FIXED,DO NOT ASK ME FOR A DOWNLOAD OF ONE
 
 # "Lefigacy" being a PLAy on the word Legacy + EFI.
 
@@ -33,4 +33,3 @@ Trackpad model and type: ELAN PS/2
 * ? HDMI/VGA ports
 * ? SD Cards
 * ? Bluetooth
-EFI will be released until i have fixed almost all bugs.
